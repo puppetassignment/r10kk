@@ -5,4 +5,4 @@ mod "puppetlabs/stdlib"
 
 # Modules from Github using various references
 mod "web",
-  :git => "https://github.com/puppetassignment/web.git",
+  :git => "https://github.com/puppetassignment/web.git"
