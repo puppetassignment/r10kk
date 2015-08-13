@@ -1,7 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
-mod "puppetlabs/nginx"
+mod "jfryman/nginx"
 
 # Modules from Github using various references
 mod "web",
